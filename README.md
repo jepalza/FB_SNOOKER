@@ -1,5 +1,5 @@
 # FB_SNOOKER
-Freebasic verisón de una demo de "snooker" programada en B4X
+Freebasic versión de una demo de "snooker" programada en B4X
 
 creditos:
 ' 2D Snooker physics (basic simulation)- Jim Brown (2011)
